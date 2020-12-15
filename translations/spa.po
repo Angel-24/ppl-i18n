@@ -64,11 +64,11 @@ msgstr "Esperando otros jugadores..."
 
 # screen_lan_lobby.cpp
 msgid "You are already in the game!"
-msgstr ""
+msgstr "¡Ya estás en la partida!"
 
 # screen_download_level.cpp
 msgid "Downloading level..."
-msgstr ""
+msgstr "Descargando nivel..."
 
 # screen_specify_server_ip.cpp
 msgid "Connect"
@@ -232,7 +232,7 @@ msgstr "Elige un nivel"
 
 # screen_settings_language.cpp
 msgid "Contributors"
-msgstr ""
+msgstr "Contriubidores"
 
 # screen_settings_language.cpp
 msgid "Default language"
@@ -252,19 +252,19 @@ msgstr "¡Las traducciones son cortesía de la comunidad!"
 
 # screen_view_high_scores.cpp
 msgid "1p"
-msgstr "1J."
+msgstr "1J"
 
 # screen_view_high_scores.cpp
 msgid "2p"
-msgstr "2J."
+msgstr "2J"
 
 # screen_view_high_scores.cpp
 msgid "3p"
-msgstr "3J."
+msgstr "3J"
 
 # screen_view_high_scores.cpp
 msgid "4p"
-msgstr "4J."
+msgstr "4J"
 
 # screen_view_high_scores.cpp
 msgid "personal"
@@ -384,7 +384,7 @@ msgstr "de %s"
 
 # screen_settings.cpp
 msgid "Account"
-msgstr ""
+msgstr "Cuenta"
 
 # screen_settings.cpp
 msgid "Audio"
@@ -563,8 +563,12 @@ msgid "Emails do not match!"
 msgstr "¡Las cuentas de correo no coinciden!"
 
 # screen_register.cpp
-msgid "Failed to parse response"
-msgstr "Fallo al analizar la respuesta"
+msgid "Failed to register"
+msgstr "No se pudo registrar"
+
+# screen_register.cpp
+msgid "Password:"
+msgstr "Contraseña:"
 
 # screen_register.cpp
 msgid "Passwords do not match!"
@@ -620,7 +624,7 @@ msgstr "Escudos: %s"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
-msgstr "%s ha abandonado"
+msgstr "%s se ha ido"
 
 # game_state.cpp
 msgid "Accuracy: %s"
