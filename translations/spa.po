@@ -176,7 +176,7 @@ msgstr "Configurar Nave"
 
 # screen_configure_ship.cpp
 msgid "Model"
-msgstr "Modelo"
+msgstr "Nave"
 
 # screen_configure_ship.cpp
 msgid "Trail"
@@ -200,7 +200,7 @@ msgstr "Se ha subido correctamente"
 
 # screen_upload_scores.cpp
 msgid "Uploading replay for %s."
-msgstr "Subiendo repetición de %s."
+msgstr "Subiendo partida de %s."
 
 # screen_upload_scores.cpp
 msgid "You need to be signed-in to upload scores"
@@ -416,7 +416,7 @@ msgstr "Ajustes"
 
 # screen_settings.cpp
 msgid "Start tutorial"
-msgstr "Iniciar tutorial"
+msgstr "Tutorial"
 
 # screen_settings.cpp
 msgid "Vibration %s"
